@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maxproy
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Isaac Muraya Maina
+- 👀 I’m interested in cybersecurity and artificial intelligence 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my mobile number 0798755365
